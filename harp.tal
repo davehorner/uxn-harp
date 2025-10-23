@@ -304,37 +304,37 @@ JMP2r
 
 @chords
 	( notes         left sprt  right sprt )
-	07 0b 0e 10  &l :s1x2_maj7 :s1x2_9
-	07 0a 0e 0f     :s1x2_m    :s1x2_9
-	07 0a 0c 11     :s1x2_7    :s1x2_s
-	07 0a 0d 10     :s1x2_7    :s1x2_flat9
-	0a 0e 11 15     :s1x2_13   :s1x2_s
+	07 0b 0e 10  &l =s1x2_maj7 =s1x2_9
+	07 0a 0e 0f     =s1x2_m    =s1x2_9
+	07 0a 0c 11     =s1x2_7    =s1x2_s
+	07 0a 0d 10     =s1x2_7    =s1x2_flat9
+	0a 0e 11 15     =s1x2_13   =s1x2_s
 
-	07 0b 0c 10     :s1x2_maj7 0000
-	07 0a 0c 0f     :s1x2_m    :s1x2_7
-	07 0a 0c 10     :s1x2_7    0000
-	08 0a 0c 10     :s1x2_7    :s1x2_sharp5
-	0a 0e 10 15     :s1x2_13   0000
+	07 0b 0c 10     =s1x2_maj7 0000
+	07 0a 0c 0f     =s1x2_m    =s1x2_7
+	07 0a 0c 10     =s1x2_7    0000
+	08 0a 0c 10     =s1x2_7    =s1x2_sharp5
+	0a 0e 10 15     =s1x2_13   0000
 
-	07 09 0c 10     :s1x2_6    0000
-	07 09 0c 0f     :s1x2_m    :s1x2_6
-	06 0a 0c 0f     :s1x2_sdim :s1x2_7
-	06 09 0c 0f     :s1x2_dim  :s1x2_7
-	09 0e 0c 12     :s1x2_iil  :s1x2_iir
+	07 09 0c 10     =s1x2_6    0000
+	07 09 0c 0f     =s1x2_m    =s1x2_6
+	06 0a 0c 0f     =s1x2_sdim =s1x2_7
+	06 09 0c 0f     =s1x2_dim  =s1x2_7
+	09 0e 0c 12     =s1x2_iil  =s1x2_iir
 
 @note-table
-	:s2x2_note/a  :s1x1_blank
-	:s2x2_note/bb :s1x1_blank
-	:s2x2_note/b  :s1x1_blank
-	:s2x2_note/c  :s1x1_blank
-	:s2x2_note/db :s1x1_blank
-	:s2x2_note/d  :s1x1_blank
-	:s2x2_note/eb :s1x1_blank
-	:s2x2_note/e  :s1x1_blank
-	:s2x2_note/f  :s1x1_blank
-	:s2x2_note/fs :s1x1_blank
-	:s2x2_note/g  :s1x1_blank
-	:s2x2_note/ab :s1x1_blank
+	=s2x2_note/a  =s1x1_blank
+	=s2x2_note/bb =s1x1_blank
+	=s2x2_note/b  =s1x1_blank
+	=s2x2_note/c  =s1x1_blank
+	=s2x2_note/db =s1x1_blank
+	=s2x2_note/d  =s1x1_blank
+	=s2x2_note/eb =s1x1_blank
+	=s2x2_note/e  =s1x1_blank
+	=s2x2_note/f  =s1x1_blank
+	=s2x2_note/fs =s1x1_blank
+	=s2x2_note/g  =s1x1_blank
+	=s2x2_note/ab =s1x1_blank
 
 @s2x2_note
 &a
